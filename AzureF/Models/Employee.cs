@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Employee properties
+
 namespace AzureF.Models
 {
     public class Employee
