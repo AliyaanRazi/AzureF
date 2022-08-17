@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// Employee properties
+// Employee properties DB Context
 
 namespace AzureF.Models
 {
